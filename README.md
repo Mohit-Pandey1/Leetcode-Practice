@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0231-power-of-two) |
+| [0476-number-complement](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/1054-complement-of-base-10-integer) |
 ## Recursion
 |  |
