@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [1848-sum-of-unique-elements](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/1848-sum-of-unique-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/1848-sum-of-unique-elements) |
+## Counting
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
