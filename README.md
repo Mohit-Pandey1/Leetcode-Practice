@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
