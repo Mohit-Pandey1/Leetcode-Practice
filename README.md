@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
 | [1848-sum-of-unique-elements](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/1848-sum-of-unique-elements) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
 ## Simulation
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/1848-sum-of-unique-elements) |
 ## Counting
 |  |
@@ -64,4 +67,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
