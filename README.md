@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0258-add-digits) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/1848-sum-of-unique-elements) |
 ## Counting
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
