@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Mohit-Pandey1/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
